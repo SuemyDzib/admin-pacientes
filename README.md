@@ -83,3 +83,7 @@ Los pacientes se guardan en el LocalStorage del navegador bajo la clave `pacient
 ```
 
 Como los datos viven solo en el navegador, no se sincronizan entre dispositivos y se pierden si se borra el almacenamiento del sitio.
+
+## 👤 Autor
+
+Desarrollado por **Suemy Dzib** – [@SuemyDzib](https://github.com/SuemyDzib) a través del curso de Udemy impartido por Juan de la Torre.
